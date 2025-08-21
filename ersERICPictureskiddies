@@ -1,0 +1,5 @@
+[33mcbdb3b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add background music with auto-shuffle and subtle song display
+[33mb01743f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add mobile touch support to Word Search and keep matched cards open in Memory Match
+[33m9524bac[m Mobile touch
+[33m2c92d0e[m Make Kiddies Jump level map responsive for mobile: adjust padding, text sizes, grid layout, and progress stats
+[33m92a42bc[m Fix Memory Match: Add counter-rotation to prevent inverted text when cards flip
